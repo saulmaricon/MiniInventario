@@ -1,6 +1,6 @@
 ## Uso del programa
 
-1. Ejecuta el programa desde IntelliJ
-2. Selecciona una opción del menú
-3. Puedes añadir y listar productos
-4. Proyecto para practicar Git
+1. Ejecuta MiniInventario
+2. Añadir, listar o buscar productos
+3. La búsqueda permite encontrar productos por nombre
+4. Indica si existe o no
