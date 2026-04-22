@@ -1,4 +1,5 @@
 ## Uso del programa
 
-1. Ejecuta MiniInventario
-2. Añadir, listar o buscar productos
+1. Versión documentación
+2. Menú básico
+3. Inventario simple
