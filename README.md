@@ -1,2 +1,1 @@
-## Nota temporal
-Pendiente documentar la nueva mejora
+Linea desde DOCS
