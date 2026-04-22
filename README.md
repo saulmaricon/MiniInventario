@@ -1,2 +1,5 @@
-## Nota temporal
-Pendiente documentar la nueva mejora
+## Uso del programa
+
+Versión documentación
+Menú básico
+Inventario simple
